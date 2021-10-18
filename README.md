@@ -4,7 +4,7 @@
 bikeshare.py created 09/26/2021, README.md created 10/17/2021
 
 ### Project Title
-uDacity Version Control on GitHub Project
+uDacity Project: Version Control on GitHub
 
 ### Description
 Project to show competency in working with GitHub repository
@@ -13,4 +13,4 @@ Project to show competency in working with GitHub repository
 bikeshare.py, README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+uDacity.com; github.com; git-scm.com (git bash); atom.io (Atom notebook)
